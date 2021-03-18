@@ -7,4 +7,3 @@ tags:
 ---
 
 My personal page is now up and running. Many areas might still be under construction.
-------
