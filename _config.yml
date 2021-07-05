@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Georg Friedrich Schuppe"
 title_separator          : "-"
 name                     : &name "Georg Friedrich Schuppe"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://gschup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gschup/gschup.github.io"
@@ -179,9 +179,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
